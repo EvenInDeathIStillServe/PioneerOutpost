@@ -1,0 +1,55 @@
+// DM Environment file for Pioneer Outpost 32.dme.
+// All manual changes should be made outside the BEGIN_ and END_ blocks.
+// New source code should be placed in .dm files: choose File/New --> Code File.
+
+// BEGIN_INTERNALS
+// END_INTERNALS
+
+// BEGIN_FILE_DIR
+#define FILE_DIR .
+#define FILE_DIR "icons"
+#define FILE_DIR "icons/clothing"
+#define FILE_DIR "icons/mob"
+#define FILE_DIR "sounds"
+// END_FILE_DIR
+
+// BEGIN_PREFERENCES
+// END_PREFERENCES
+
+// BEGIN_INCLUDE
+#include "Pioneer Outpost 32.dm"
+#include "Pioneer Outpost 32.dmm"
+#include "code\areas.dm"
+#include "code\atoms.dm"
+#include "code\atoms_movable.dm"
+#include "code\click.dm"
+#include "code\client.dm"
+#include "code\defines.dm"
+#include "code\elevator.dm"
+#include "code\game.dm"
+#include "code\item.dm"
+#include "code\mob.dm"
+#include "code\say.dm"
+#include "code\screen.dm"
+#include "code\sound.dm"
+#include "code\turf.dm"
+#include "code\type2type.dm"
+#include "code\human\human.dm"
+#include "code\obj\item\clothing.dm"
+#include "code\obj\item\items.dm"
+#include "code\obj\item\weapons.dm"
+#include "code\obj\item\clothing\hats.dm"
+#include "code\obj\item\clothing\shoes.dm"
+#include "code\obj\item\clothing\uniform.dm"
+#include "code\obj\machinery\budgetdisplay.dm"
+#include "code\obj\machinery\conveyor.dm"
+#include "code\obj\machinery\drill.dm"
+#include "code\obj\machinery\elevator_control.dm"
+#include "code\obj\machinery\furnace.dm"
+#include "code\obj\structure\closets.dm"
+#include "code\obj\structure\multiZ.dm"
+#include "code\obj\structure\platform.dm"
+#include "code\obj\structure\structures.dm"
+#include "code\obj\structure\workshops.dm"
+// END_INCLUDE
+

@@ -1,0 +1,65 @@
+"a" = (/obj/structure/tree,/turf/floor/grass,/area)
+"b" = (/turf/floor/grass,/area)
+"c" = (/obj/structure/workbench/carpentry,/turf/floor/grass,/area)
+"d" = (/obj/item/weapon/axe,/turf/floor/grass,/area)
+"e" = (/turf/wall/rock,/area)
+"f" = (/obj/item/gold,/turf/floor/rock,/area)
+"g" = (/turf/floor/rock,/area)
+"h" = (/obj/item/clothing/shoes/rubberboots,/turf/floor/rock,/area)
+"i" = (/obj/item/clothing/head/hardhat,/turf/floor/rock,/area)
+"j" = (/obj/item/weapon/pickaxe,/turf/floor/rock,/area)
+"k" = (/turf/floor/spawnpoint,/area)
+"l" = (/obj/item/clothing/uniform/worker,/turf/floor/rock,/area)
+
+(1,1,1) = {"
+abbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb
+bbbbabbbbbbbabbbbbbbabbbbbabbbbbbbbbbbbbbbbbbbbbbb
+bbabbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb
+bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb
+bbbbbbbbabbbbbbbbabbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb
+bbbabbbbbbbbbabbbbbbbbbabbbbbbbbbbbbabbbbbbbbbbbbb
+bbbbbbbbbbbbbbbabbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb
+abbbbbabbababbbbbbabbbbabbbbbabbbbbbbbbbbbbbbbbbbb
+bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbabbbbbbbbbbbbbbbbbbb
+bbabbbbbabbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb
+bbbbbbbbbbbbbabbbbabbbbbabbbbbbbbbbbbbbbbbbbbbbbbb
+bbbbbabbbbbbbbbbbbbbbbbbbbbbbbbbbbbabbbbbbbbbbbbbb
+bbbbabbbabbbbbbbbbbbbbabbbbbbbbbbbbbbbbbbbbbbbbbbb
+abbbbbbbbbbbbbbbbabbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb
+bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb
+bbbbbbbabbbbabbbbbbbbbbbabbbbbbbabbbbbbbbbbbbbbbbb
+bbbbbbbbbbbbbbbbbabbbabbbbbbbbbbbbbbbbbbbbbbbbbbbb
+bbbbbabbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb
+bbbabbbbbbbabbabbbbbbbbabbbbbabbbbbbbbbbbbbbbbbbbb
+bbbbbbbbbbbbbbbbbbbabbbbbbabbbbbbbbbbbbbbbbbbbbbbb
+bbbbbbbbbbbabbbbbabbbbbbbbbbbbbbabbbbbbbbbbbbbbbbb
+bbbbbbbbabbbbbbbbbbabbbbabbbbabbbbbbbbbbbbbbbbbbbb
+bbabbbbbbbbbbbabbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb
+bbbbabbbbbbabbbbabbbbbbbbbbbbabbbbbbbbbbbbbbbbbbbb
+bbabbbbbabbbbbbabbbbabbbbbbabbbbbbbabbbbbbbbbbbbbb
+bbbbbbbbbbbbbbbbbbbbbbbbabbbbbbbabbbbbbbbbbbbbbbbb
+bbbbabbbbbbbbabbabbbbbbbbbbbabbbbbbbbbbbbbbbbbbbbb
+bbbbbbbabbbbbbbbbbbbabbbbbbbbbabbbbbbbbbbbbbbbbbbb
+babbbbbbbbbbabbbbbbbbbabbbbbbbbbbbabbbbbbbbbbbbbbb
+bbbbbbabbbbbbbbabbbbbbbbbabbbbbbbbbbbbbbbbbbbbbbbb
+bbbbbbbbbbabbbbbbbabbbbbbbbbbbbabbbbbbbbbbbbbbbbbb
+bbbbabbbbbbbbbabbbbbbabbabbbbbbbbbbbbbbbbbbbbbbbbb
+bbbbbbbbbbabbbbbbabbbbbbbbbbabbbbbbbbbbbbbbbbbbbbb
+bbbbbbbbbbbbbbbabbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb
+abbbbbbabbbbbbbbbbbbbabbbbbabbbabbbbbbbbbbbbbbbbbb
+bbbabbbbbbbbabbbbabbbbbbabbbbbbbbbbbbbbbbbbbbbbbbb
+bbbbbbabbbbbbbbbbbbabbbbbbbbbbbbabbbbbbbbbbbbbbbbb
+bbbbbbbbbbabbbbbabbbbbbbbbbbbbabbbbbbbbbbbbbbbbbbb
+bbbbbabbbbbbcbbbbbbbbbbbbabbbbbbbbbbbbbbbbbbbbbbbb
+bbbbbbbbbbdbbbbbbbbbeeeeeeeeeeeeeeebbbbbbbbbbbbbbb
+babbbbabbbbbbbabbbabeeeeeeeeeeeeeeebbbbbbbbbbbbbbb
+bbbbbbbbbbeeeebbeeeeeeeeeeeeeeeeeeebbbbbbbbbbbbbbb
+bbbbbbbbbbefgebbegfgeeeeeeeeeeeeeeebbbbbbbbbbbbbbb
+bbbbbbbbbbeggebbeghgeeeeeeeeeeeeeeebbbbbbbbbbbbbbb
+bbbbbbbbbbgggebbeigjeeeeeeeeeeeeeeebbbbbbbbbbbbbbb
+bbbkbbbbbbeggeeeeglgeeeeeeeeeeeeeeebbbbbbbbbbbbbbb
+bbbbbbbbbbegggggggggeeeeeeeeeeeeeeebbbbbbbbbbbbbbb
+bbbbbbbbbbeeggggggfgeeeeeeeeeeeeeeebbbbbbbbbbbbbbb
+bbbbbbbbbbbeeeeeeeeeeeeeeeeeeeeeeeebbbbbbbbbbbbbbb
+bbbbbbbbbbbbbbbbbbbbeeeeeeeeeeeeeeebbbbbbbbbbbbbbb
+"}

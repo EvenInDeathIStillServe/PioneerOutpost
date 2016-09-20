@@ -1,0 +1,202 @@
+"a" = (/obj/structure/tree,/turf/floor/grass,/area)
+"b" = (/turf/floor/grass,/area)
+"c" = (/turf/floor/rock,/area)
+"d" = (/obj/machinery/elevator_control,/turf/floor/rock,/area)
+"e" = (/obj/structure/platform,/turf/floor/rock,/area/elevator)
+"f" = (/obj/machinery/conveyor/east/south,/turf/floor/rock,/area)
+"g" = (/obj/machinery/conveyor{dir = 8},/turf/floor/rock,/area)
+"h" = (/obj/machinery/conveyor{dir = 8},/obj/machinery/drill,/turf/floor/rock,/area)
+"i" = (/obj/machinery/drill_control,/turf/floor/rock,/area)
+"j" = (/obj/machinery/conveyor,/turf/floor/rock,/area)
+"k" = (/obj/structure/multiz/ladder/down,/turf/floor/rock,/area)
+"l" = (/obj/structure/workbench/carpentry,/turf/floor/grass,/area)
+"m" = (/obj/machinery/conveyor/north/west,/turf/floor/rock,/area)
+"n" = (/obj/item/weapon/axe,/turf/floor/grass,/area)
+"o" = (/turf/wall/rock,/area)
+"p" = (/obj/machinery/conveyor/east/south,/turf/floor/grass,/area)
+"q" = (/obj/machinery/conveyor{dir = 8},/turf/floor/grass,/area)
+"r" = (/obj/machinery/conveyor/north/west,/turf/floor/grass,/area)
+"s" = (/obj/machinery/conveyor{dir = 8},/obj/item/wood,/turf/floor/rock,/area)
+"t" = (/obj/machinery/conveyor/south/west,/turf/floor/rock,/area)
+"u" = (/obj/machinery/conveyor,/obj/machinery/furnace,/turf/floor/rock,/area)
+"v" = (/obj/machinery/conveyor,/obj/item/wood,/turf/floor/rock,/area)
+"w" = (/obj/machinery/conveyor/south/west,/obj/item/planks,/turf/floor/rock,/area)
+"x" = (/obj/machinery/conveyor{dir = 1},/turf/floor/rock,/area)
+"y" = (/obj/item/weapon/pickaxe,/turf/floor/rock,/area)
+"z" = (/obj/machinery/conveyor,/obj/item/planks,/turf/floor/rock,/area)
+"A" = (/turf/floor/spawnpoint,/area)
+"B" = (/obj/item/clothing/head/hardhat,/turf/floor/grass,/area)
+"C" = (/obj/item/clothing/uniform/workman,/turf/floor/grass,/area)
+"D" = (/obj/machinery/conveyor/north/east,/turf/floor/rock,/area)
+"E" = (/obj/machinery/conveyor{dir = 4},/obj/item/planks,/turf/floor/rock,/area)
+"F" = (/obj/machinery/conveyor/west/north,/turf/floor/rock,/area)
+"G" = (/obj/machinery/conveyor{dir = 1},/obj/item/wood,/turf/floor/rock,/area)
+"H" = (/obj/item/clothing/shoes/rubberboots,/turf/floor/grass,/area)
+"I" = (/obj/machinery/conveyor{dir = 4},/obj/item/wood,/turf/floor/rock,/area)
+"J" = (/obj/machinery/conveyor{dir = 4},/turf/floor/rock,/area)
+"K" = (/obj/machinery/buy,/turf/wall/rock,/area)
+"L" = (/obj/machinery/budgetdisplay,/turf/wall/rock,/area)
+"M" = (/obj/machinery/sell,/turf/wall/rock,/area)
+"N" = (/obj/machinery/elevator_control{id = 2},/turf/floor/rock,/area)
+"O" = (/obj/structure/closet,/turf/floor/rock,/area)
+"P" = (/obj/structure/multiz/ladder/up,/turf/floor/rock,/area)
+"Q" = (/obj/machinery/budgetdisplay,/turf/floor/rock,/area)
+
+(1,1,1) = {"
+abbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbabbbbbbbbbbbbbbbb
+bbbbabbbbbbbabbbbbbbabbbbbabbbbbbbbbbabbbbbbbabbbb
+bbabbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbabbbbbbbbbbbbbb
+bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbabbbbbbbbbbbbbbbbbbb
+bbbbbbbbabbbbbbbbabbbbbbbbbbbbbbbbbbbbbbbabbbbbbbb
+bbbabbbbbbbbbabbbbbbbbbabbbbbbbbbbbbabbbbbbbbbabbb
+bbbbbbbbbbbbbbbabbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbab
+abbbbbabbababbbbbbabbbbabbbbbabbbabbbbbabbababbbbb
+bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbabbbbbbbbbbbbbbbbbbb
+bbabbbbbabbbbbbbbbbbbbbbbbbbbbbbbbbabbbbbabbbbbbbb
+bbbbbbbbbbbbbabbbbabbbbbabbbbbbbbbbbbbbbbbbbbbabbb
+bbbbbabbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbabbbbbbbbbbb
+bbbbabbbabbbbbbbbbbbbbabbbbbbbbbbbbbbabbbabbbbbbbb
+abbbbbbbbbbbbbbbbabbbbbbbbbbbbbbbabbbbbbbbbbbbbbbb
+bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb
+bbbbbbbabbbbabbbbbbbbbbbabbbbbbbabbbbbabbabbbbbbbb
+bbbbbbbbbbbbbbbbbabbbabbbbbbbbbbbbbbbbbbbbbbbbabbb
+bbbbbabbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbabbbbbabbbbb
+bbbabbbbbbbabbabbbbbbbbabbbbbabbbbbabbbbbbbbbbabbb
+bbbbbbbbbbbbbbbbbbbabbbbbbabbbbbbbbbbbbbbabbbbbbbb
+bbbbbbbbbbbabbbbbabbbbbbbbbbbbbbabbbbbabbbbabbbbbb
+bbbbbbbbabbbbbbbbbbabbbbabbbbabbbbbabbbbbbabbbbabb
+bbabbbbbbbbbbbabbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb
+bbbbabbbbbbabbbbabbbbbbbbbbbbabbbbbbbbbbabbabbbbbb
+bbabbbbbabbbbbbabbbbabbbbbbabbbbbbabbbbbbbbbbbbabb
+bbbbbbbbbbbbbbbbbbbbbbbbabbbbbbbabbbbbbabbbbbbbbba
+bbbbabbbbbbbbabbabbbbbbbbbbbabbbbabbbbbbbbabbbbbbb
+bbbbbbbabbbbbbbbbbbbabbbbbbbbbabbbbbbabbbbbbbabbbb
+babbbbbbbbbbabbbbbbbbbabbcbcbbbbbbbbbbbbbabbbbbbab
+bbbbbbabbbbbbbbabbbbbbbbcccccbbbbbbbbabbbbbbabbbbb
+bbbbbbbbbbabbbbbbbabbbbbcccdccbabbbbbbabbbbbbbbbbb
+bbbbabbbbbbbbbabbbbbbabccceeeccbbbbbabbbbbbbabbabb
+bbbbbbbbbbabbbbbbabbbccccceeecbbbbbbbbbbbbbbbbbbbb
+bbbbbbbbbbbbbbbabbbbbccccceeecbccbbcbbbbbbbbabbbbb
+abbbbbbabbbbbbbbbbbbcccccccccccccccccbbbbabbbbbbbb
+bbbabbbbbbbbabbbbabccccccccccccccccbbbbbbbbbbbbabb
+bbbbbbabbbbbbbbbbbbbfgghiccccccccccbbabbbbbbabbbba
+bbbbbbbbbbabbbbbabbbjcccccckcccccccbbbbbbabbbbbbab
+bbbbbabbbbbblbbbbbbfmcccccccccccccccbbbbbbbbbbbbbb
+bbbbbbbbbbnbbbbbbbbjooooooooooooooocbabbbbbbbbabba
+babbbbabbbbbbbabbpqrooooooooooooooobbbbbabbbbbbbbb
+bbbbbbbbbboooobbojooooooooooooooooobbbbbbbbbbabbbb
+bbbbbbbbbboccobbojccfggstoooooooooobbbbabbbbbbbbab
+bbbbbbbbbboccobbouccvfgwxoooooooooobbbbbbbbabbbbbb
+bbbbbbbbbbcccobbojcyjzcxxoooooooooobbabbbbbbbbbabb
+bbbAbbbbbBoccoooocccjjcxxoooooooooobbbbbbbbabbbbbb
+bbbbbbbbbCocccccccccjDEFGoooooooooobbbbbbbbbbbbbab
+bbbbbbbbbHooccccccccDIJJFoooooooooobbbbbabbbbbbbbb
+bbbbbbbbbbboooooKLMoooooooooooooooobbbbbbbbbbbabbb
+bbbbbbbbbbbbbbbbbbbbooooooooooooooobbabbbbbbbbbbbb
+"}
+
+(1,1,2) = {"
+oooooooooooooooooooooooooooooooooooooooooooooooooo
+oooooooooooooooooooooooooooooooooooooooooooooooooo
+oooooooooooooooooooooooooooooooooooooooooooooooooo
+oooooooooooooooooooooooooooooooooooooooooooooooooo
+oooooooooooooooooooooooooooooooooooooooooooooooooo
+oooooooooooooooooooooooooooooooooooooooooooooooooo
+oooooooooooooooooooooooooooooooooooooooooooooooooo
+oooooooooooooooooooooooooooooooooooooooooooooooooo
+oooooooooooooooooooooooooooooooooooooooooooooooooo
+oooooooooooooooooooooooooooooooooooooooooooooooooo
+oooooooooooooooooooooooooooooooooooooooooooooooooo
+oooooooooooooooooooooooooooooooooooooooooooooooooo
+oooooooooooooooooooooooooooooooooooooooooooooooooo
+oooooooooooooooooooooooooooooooooooooooooooooooooo
+oooooooooooooooooooooooooooooooooooooooooooooooooo
+oooooooooooooooooooooooooooooooooooooooooooooooooo
+oooooooooooooooooooooooooooooooooooooooooooooooooo
+oooooooooooooooooooooooooooooooooooooooooooooooooo
+oooooooooooooooooooooooooooooooooooooooooooooooooo
+oooooooooooooooooooooooooooooooooooooooooooooooooo
+oooooooooooooooooooooooooooooooooooooooooooooooooo
+oooooooooooooooooooooooooooooooooooooooooooooooooo
+oooooooooooooooooooooooooooooooooooooooooooooooooo
+oooooooooooooooooooooooooooooooooooooooooooooooooo
+oooooooooooooooooooooooooooooooooooooooooooooooooo
+oooooooooooooooooooooooooooooooooooooooooooooooooo
+oooooooooooooooooooooooooooooooooooooooooooooooooo
+oooooooooooooooooooooooooooooooooooooooooooooooooo
+ooooooooooooooooooooooooocccccoooooooooooooooooooo
+ooooooooooooooooooooooooocccccoooooooooooooooooooo
+oooooooooooooooooooooooooccNccoooooooooooooooooooo
+ooooooooooooooooooooooooocccccoooooooooooooooooooo
+ooooooooooooooooooooooooocccccoooooooooooooooooooo
+ooooooooooooooooooooooooocccccoooooooooooooooooooo
+ooooooooooooooooooooooooocccccoooooooooooooooooooo
+ooooooooooooooooooooooooocOOOcoooooooooooooooooooo
+oooooooooooooooooooooooooccccjoooooooooooooooooooo
+oooooooooooooooooooooooooccPcjoooooooooooooooooooo
+oooooooooooooooooooooooooycccuoooooooooooooooooooo
+ooooooooooooooooooooooooocckcjoooooooooooooooooooo
+oooooooooooooooooooooooooccQccoooooooooooooooooooo
+oooooooooooooooooooooooooooooooooooooooooooooooooo
+oooooooooooooooooooooooooooooooooooooooooooooooooo
+oooooooooooooooooooooooooooooooooooooooooooooooooo
+oooooooooooooooooooooooooooooooooooooooooooooooooo
+oooooooooooooooooooooooooooooooooooooooooooooooooo
+oooooooooooooooooooooooooooooooooooooooooooooooooo
+oooooooooooooooooooooooooooooooooooooooooooooooooo
+oooooooooooooooooooooooooooooooooooooooooooooooooo
+oooooooooooooooooooooooooooooooooooooooooooooooooo
+"}
+
+(1,1,3) = {"
+oooooooooooooooooooooooooooooooooooooooooooooooooo
+oooooooooooooooooooooooooooooooooooooooooooooooooo
+oooooooooooooooooooooooooooooooooooooooooooooooooo
+oooooooooooooooooooooooooooooooooooooooooooooooooo
+oooooooooooooooooooooooooooooooooooooooooooooooooo
+oooooooooooooooooooooooooooooooooooooooooooooooooo
+oooooooooooooooooooooooooooooooooooooooooooooooooo
+oooooooooooooooooooooooooooooooooooooooooooooooooo
+oooooooooooooooooooooooooooooooooooooooooooooooooo
+oooooooooooooooooooooooooooooooooooooooooooooooooo
+oooooooooooooooooooooooooooooooooooooooooooooooooo
+oooooooooooooooooooooooooooooooooooooooooooooooooo
+oooooooooooooooooooooooooooooooooooooooooooooooooo
+oooooooooooooooooooooooooooooooooooooooooooooooooo
+oooooooooooooooooooooooooooooooooooooooooooooooooo
+oooooooooooooooooooooooooooooooooooooooooooooooooo
+oooooooooooooooooooooooooooooooooooooooooooooooooo
+oooooooooooooooooooooooooooooooooooooooooooooooooo
+oooooooooooooooooooooooooooooooooooooooooooooooooo
+oooooooooooooooooooooooooooooooooooooooooooooooooo
+oooooooooooooooooooooooooooooooooooooooooooooooooo
+oooooooooooooooooooooooooooooooooooooooooooooooooo
+oooooooooooooooooooooooooooooooooooooooooooooooooo
+oooooooooooooooooooooooooooooooooooooooooooooooooo
+oooooooooooooooooooooooooooooooooooooooooooooooooo
+oooooooooooooooooooooooooooooooooooooooooooooooooo
+oooooooooooooooooooooooooooooooooooooooooooooooooo
+oooooooooooooooooooooooooooooooooooooooooooooooooo
+oooooooooooooooooooooooooooooooooooooooooooooooooo
+oooooooooooooooooooooooooooooooooooooooooooooooooo
+oooooooooooooooooooooooooooooooooooooooooooooooooo
+oooooooooooooooooooooooooooooooooooooooooooooooooo
+oooooooooooooooooooooooooooooooooooooooooooooooooo
+oooooooooooooooooooooooooooooooooooooooooooooooooo
+oooooooooooooooooooooooooooooooooooooooooooooooooo
+ooooooooooooooooooooooooocccccoooooooooooooooooooo
+ooooooooooooooooooooooooocccccoooooooooooooooooooo
+ooooooooooooooooooooooooocccccoooooooooooooooooooo
+ooooooooooooooooooooooooocccccoooooooooooooooooooo
+oooooooooooooooooooooooooccPccoooooooooooooooooooo
+ooooooooooooooooooooooooocccccoooooooooooooooooooo
+oooooooooooooooooooooooooooooooooooooooooooooooooo
+oooooooooooooooooooooooooooooooooooooooooooooooooo
+oooooooooooooooooooooooooooooooooooooooooooooooooo
+oooooooooooooooooooooooooooooooooooooooooooooooooo
+oooooooooooooooooooooooooooooooooooooooooooooooooo
+oooooooooooooooooooooooooooooooooooooooooooooooooo
+oooooooooooooooooooooooooooooooooooooooooooooooooo
+oooooooooooooooooooooooooooooooooooooooooooooooooo
+oooooooooooooooooooooooooooooooooooooooooooooooooo
+"}
