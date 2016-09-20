@@ -37,10 +37,11 @@
 "K" = (/obj/machinery/buy,/turf/wall/rock,/area)
 "L" = (/obj/machinery/budgetdisplay,/turf/wall/rock,/area)
 "M" = (/obj/machinery/sell,/turf/wall/rock,/area)
-"N" = (/obj/machinery/elevator_control{id = 2},/turf/floor/rock,/area)
-"O" = (/obj/structure/closet,/turf/floor/rock,/area)
-"P" = (/obj/structure/multiz/ladder/up,/turf/floor/rock,/area)
-"Q" = (/obj/machinery/budgetdisplay,/turf/floor/rock,/area)
+"N" = (/obj/machinery/elevator_control/bottom,/turf/floor/rock,/area)
+"O" = (/turf/floor/rock,/area/elevator)
+"P" = (/obj/structure/closet,/turf/floor/rock,/area)
+"Q" = (/obj/structure/multiz/ladder/up,/turf/floor/rock,/area)
+"R" = (/obj/machinery/budgetdisplay,/turf/floor/rock,/area)
 
 (1,1,1) = {"
 abbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbabbbbbbbbbbbbbbbb
@@ -127,16 +128,16 @@ oooooooooooooooooooooooooooooooooooooooooooooooooo
 ooooooooooooooooooooooooocccccoooooooooooooooooooo
 ooooooooooooooooooooooooocccccoooooooooooooooooooo
 oooooooooooooooooooooooooccNccoooooooooooooooooooo
-ooooooooooooooooooooooooocccccoooooooooooooooooooo
-ooooooooooooooooooooooooocccccoooooooooooooooooooo
-ooooooooooooooooooooooooocccccoooooooooooooooooooo
-ooooooooooooooooooooooooocccccoooooooooooooooooooo
 ooooooooooooooooooooooooocOOOcoooooooooooooooooooo
+ooooooooooooooooooooooooocOOOcoooooooooooooooooooo
+ooooooooooooooooooooooooocOOOcoooooooooooooooooooo
+ooooooooooooooooooooooooocccccoooooooooooooooooooo
+ooooooooooooooooooooooooocPPPcoooooooooooooooooooo
 oooooooooooooooooooooooooccccjoooooooooooooooooooo
-oooooooooooooooooooooooooccPcjoooooooooooooooooooo
+oooooooooooooooooooooooooccQcjoooooooooooooooooooo
 oooooooooooooooooooooooooycccuoooooooooooooooooooo
 ooooooooooooooooooooooooocckcjoooooooooooooooooooo
-oooooooooooooooooooooooooccQccoooooooooooooooooooo
+oooooooooooooooooooooooooccRccoooooooooooooooooooo
 oooooooooooooooooooooooooooooooooooooooooooooooooo
 oooooooooooooooooooooooooooooooooooooooooooooooooo
 oooooooooooooooooooooooooooooooooooooooooooooooooo
@@ -188,7 +189,7 @@ ooooooooooooooooooooooooocccccoooooooooooooooooooo
 ooooooooooooooooooooooooocccccoooooooooooooooooooo
 ooooooooooooooooooooooooocccccoooooooooooooooooooo
 ooooooooooooooooooooooooocccccoooooooooooooooooooo
-oooooooooooooooooooooooooccPccoooooooooooooooooooo
+oooooooooooooooooooooooooccQccoooooooooooooooooooo
 ooooooooooooooooooooooooocccccoooooooooooooooooooo
 oooooooooooooooooooooooooooooooooooooooooooooooooo
 oooooooooooooooooooooooooooooooooooooooooooooooooo

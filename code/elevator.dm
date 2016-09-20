@@ -3,7 +3,10 @@ area/elevator
 	icon_state = "elevator"
 	var/id = 1
 
-area/elevator/proc/move_contents(var/levels)
+area/elevator/proc/move_contents(var/levels, var/goback = 0)
 	var/list/A = src.contents
 	for(var/atom/movable/B in A)
-		B.Move((locate(B.x, B.y, B.z - levels)))
+		if(goback)
+			B.Move((locate(B.x, B.y, B.z + levels)))
+		else
+			B.Move((locate(B.x, B.y, B.z - levels)))
