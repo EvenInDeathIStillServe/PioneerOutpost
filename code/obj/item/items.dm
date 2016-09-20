@@ -15,7 +15,7 @@ obj/item/acorn
 
 obj/item/ore/iron
 	name = "iron ore"
-	desc = "Iron ore, ferrum chalcitis. It's not very useful in its raw state."
+	desc = "Sin(12)? 1. 0.43837114678/2. 0.58778525229/ 3. 0.95105651629/ 4. 0.20791169081"
 	icon_state = "iron_ore"
 
 obj/item/ore/gold
