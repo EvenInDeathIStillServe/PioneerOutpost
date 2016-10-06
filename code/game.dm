@@ -4,7 +4,9 @@
 	var/anchored = 0
 
 /atom/proc/examine(mob/user)
-	if(istype(src,/mob/human))
+	if(src == user)
+		user << "Hey! It's me, \icon[src] <b>[src]!</b>"
+	else if(istype(src,/mob/human))
 		user << "That's our friend, \icon[src] <b>[src]</b>"
 	else
 		user << "That's \icon[src] \a <b>[src]</b>. [src.desc]"
