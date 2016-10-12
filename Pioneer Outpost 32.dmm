@@ -21,28 +21,29 @@
 "u" = (/obj/machinery/conveyor/east/south,/turf/floor/grass,/area)
 "v" = (/obj/machinery/conveyor{dir = 8},/turf/floor/grass,/area)
 "w" = (/obj/machinery/conveyor/north/west,/turf/floor/grass,/area)
-"x" = (/obj/machinery/conveyor{dir = 8},/obj/item/wood,/turf/floor/rock,/area)
-"y" = (/obj/machinery/conveyor/south/west,/turf/floor/rock,/area)
-"z" = (/obj/machinery/conveyor,/obj/machinery/furnace,/turf/floor/rock,/area)
-"A" = (/obj/machinery/conveyor,/obj/item/wood,/turf/floor/rock,/area)
-"B" = (/obj/machinery/conveyor/south/west,/obj/item/planks,/turf/floor/rock,/area)
-"C" = (/obj/item/weapon/pickaxe,/turf/floor/rock,/area)
-"D" = (/obj/machinery/conveyor,/obj/item/planks,/turf/floor/rock,/area)
-"E" = (/turf/floor/spawnpoint,/area)
-"F" = (/obj/item/clothing/head/hardhat,/turf/floor/grass,/area)
-"G" = (/obj/item/clothing/uniform/workman,/turf/floor/grass,/area)
-"H" = (/obj/machinery/conveyor{dir = 4},/obj/item/planks,/turf/floor/rock,/area)
-"I" = (/obj/machinery/conveyor{dir = 1},/obj/item/wood,/turf/floor/rock,/area)
-"J" = (/obj/item/clothing/shoes/rubberboots,/turf/floor/grass,/area)
-"K" = (/obj/machinery/conveyor{dir = 4},/obj/item/wood,/turf/floor/rock,/area)
-"L" = (/obj/machinery/buy,/turf/wall/rock,/area)
-"M" = (/obj/machinery/budgetdisplay,/turf/wall/rock,/area)
-"N" = (/obj/machinery/sell,/turf/wall/rock,/area)
-"O" = (/obj/machinery/elevator_control/bottom,/turf/floor/rock,/area)
-"P" = (/turf/floor/rock,/area/elevator)
-"Q" = (/obj/structure/closet,/turf/floor/rock,/area)
-"R" = (/obj/structure/multiz/ladder/up,/turf/floor/rock,/area)
-"S" = (/obj/machinery/budgetdisplay,/turf/floor/rock,/area)
+"x" = (/obj/structure/cashbox,/turf/floor/rock,/area)
+"y" = (/obj/machinery/conveyor{dir = 8},/obj/item/wood,/turf/floor/rock,/area)
+"z" = (/obj/machinery/conveyor/south/west,/turf/floor/rock,/area)
+"A" = (/obj/machinery/conveyor,/obj/machinery/furnace,/turf/floor/rock,/area)
+"B" = (/obj/machinery/conveyor,/obj/item/wood,/turf/floor/rock,/area)
+"C" = (/obj/machinery/conveyor/south/west,/obj/item/planks,/turf/floor/rock,/area)
+"D" = (/obj/item/weapon/pickaxe,/turf/floor/rock,/area)
+"E" = (/obj/machinery/conveyor,/obj/item/planks,/turf/floor/rock,/area)
+"F" = (/turf/floor/spawnpoint,/area)
+"G" = (/obj/item/clothing/head/hardhat,/turf/floor/grass,/area)
+"H" = (/obj/item/clothing/uniform/workman,/turf/floor/grass,/area)
+"I" = (/obj/machinery/conveyor{dir = 4},/obj/item/planks,/turf/floor/rock,/area)
+"J" = (/obj/machinery/conveyor{dir = 1},/obj/item/wood,/turf/floor/rock,/area)
+"K" = (/obj/item/clothing/shoes/rubberboots,/turf/floor/grass,/area)
+"L" = (/obj/machinery/conveyor{dir = 4},/obj/item/wood,/turf/floor/rock,/area)
+"M" = (/obj/machinery/buy,/turf/wall/rock,/area)
+"N" = (/obj/machinery/budgetdisplay,/turf/wall/rock,/area)
+"O" = (/obj/machinery/sell,/turf/wall/rock,/area)
+"P" = (/obj/machinery/elevator_control/bottom,/turf/floor/rock,/area)
+"Q" = (/turf/floor/rock,/area/elevator)
+"R" = (/obj/structure/closet,/turf/floor/rock,/area)
+"S" = (/obj/structure/multiz/ladder/up,/turf/floor/rock,/area)
+"T" = (/obj/machinery/budgetdisplay,/turf/floor/rock,/area)
 
 (1,1,1) = {"
 abbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbabbbbbbbbbbbbbbbb
@@ -87,13 +88,13 @@ bbbbbabbbbbbqbbbbbbgrcccccccccccccccbbbbbbbbbbbbbb
 bbbbbbbbbbsbbbbbbbbftttttttttttttttcbabbbbbbbbabba
 babbbbabbbbbbbabbuvwtttttttttttttttbbbbbabbbbbbbbb
 bbbbbbbbbbttttbbtftttttttttttttttttbbbbbbbbbbabbbb
-bbbbbbbbbbtcctbbtfccghhxyttttttttttbbbbabbbbbbbbab
-bbbbbbbbbbtcctbbtzccAghBkttttttttttbbbbbbbbabbbbbb
-bbbbbbbbbbccctbbtfcCfDckkttttttttttbbabbbbbbbbbabb
-bbbEbbbbbFtccttttcccffckkttttttttttbbbbbbbbabbbbbb
-bbbbbbbbbGtcccccccccfmHpIttttttttttbbbbbbbbbbbbbab
-bbbbbbbbbJttccccccccmKoopttttttttttbbbbbabbbbbbbbb
-bbbbbbbbbbbtttttLMNttttttttttttttttbbbbbbbbbbbabbb
+bbbbbbbbbbtcxtbbtfccghhyzttttttttttbbbbabbbbbbbbab
+bbbbbbbbbbtcctbbtAccBghCkttttttttttbbbbbbbbabbbbbb
+bbbbbbbbbbccctbbtfcDfEckkttttttttttbbabbbbbbbbbabb
+bbbFbbbbbGtccttttcccffckkttttttttttbbbbbbbbabbbbbb
+bbbbbbbbbHtcccccccccfmIpJttttttttttbbbbbbbbbbbbbab
+bbbbbbbbbKttccccccccmLoopttttttttttbbbbbabbbbbbbbb
+bbbbbbbbbbbtttttMNOttttttttttttttttbbbbbbbbbbbabbb
 bbbbbbbbbbbbbbbbbbbbtttttttttttttttbbabbbbbbbbbbbb
 "}
 
@@ -128,17 +129,17 @@ tttttttttttttttttttttttttttttttttttttttttttttttttt
 tttttttttttttttttttttttttttttttttttttttttttttttttt
 tttttttttttttttttttttttttccccctttttttttttttttttttt
 tttttttttttttttttttttttttccccctttttttttttttttttttt
-tttttttttttttttttttttttttccOcctttttttttttttttttttt
-tttttttttttttttttttttttttcPPPctttttttttttttttttttt
-tttttttttttttttttttttttttcPPPctttttttttttttttttttt
-tttttttttttttttttttttttttcPPPctttttttttttttttttttt
-tttttttttttttttttttttttttccccctttttttttttttttttttt
+tttttttttttttttttttttttttccPcctttttttttttttttttttt
 tttttttttttttttttttttttttcQQQctttttttttttttttttttt
+tttttttttttttttttttttttttcQQQctttttttttttttttttttt
+tttttttttttttttttttttttttcQQQctttttttttttttttttttt
+tttttttttttttttttttttttttccccctttttttttttttttttttt
+tttttttttttttttttttttttttcRRRctttttttttttttttttttt
 tttttttttttttttttttttttttccccftttttttttttttttttttt
-tttttttttttttttttttttttttccRcftttttttttttttttttttt
-tttttttttttttttttttttttttCcccztttttttttttttttttttt
+tttttttttttttttttttttttttccScftttttttttttttttttttt
+tttttttttttttttttttttttttDcccAtttttttttttttttttttt
 tttttttttttttttttttttttttcclcftttttttttttttttttttt
-tttttttttttttttttttttttttccScctttttttttttttttttttt
+tttttttttttttttttttttttttccTcctttttttttttttttttttt
 tttttttttttttttttttttttttttttttttttttttttttttttttt
 tttttttttttttttttttttttttttttttttttttttttttttttttt
 tttttttttttttttttttttttttttttttttttttttttttttttttt
@@ -190,7 +191,7 @@ tttttttttttttttttttttttttccccctttttttttttttttttttt
 tttttttttttttttttttttttttccccctttttttttttttttttttt
 tttttttttttttttttttttttttccccctttttttttttttttttttt
 tttttttttttttttttttttttttccccctttttttttttttttttttt
-tttttttttttttttttttttttttccRcctttttttttttttttttttt
+tttttttttttttttttttttttttccScctttttttttttttttttttt
 tttttttttttttttttttttttttccccctttttttttttttttttttt
 tttttttttttttttttttttttttttttttttttttttttttttttttt
 tttttttttttttttttttttttttttttttttttttttttttttttttt
