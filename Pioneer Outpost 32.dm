@@ -10,6 +10,7 @@ world
 
 var/master_controller
 var/money = 100
+var/stock = 0
 var/list/player_list
 var/list/clients
 
