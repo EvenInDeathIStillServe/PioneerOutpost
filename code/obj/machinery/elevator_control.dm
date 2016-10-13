@@ -19,7 +19,4 @@ obj/machinery/elevator_control/attack_hand(user)
 			sent = !sent
 
 obj/machinery/elevator_control/bottom
-	name = "elevator control"
-	desc = "The power of elevation is at your disposal."
-	icon_state = "elevator_control"
 	levels_to_move = 1

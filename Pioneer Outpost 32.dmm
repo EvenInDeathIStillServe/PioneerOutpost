@@ -16,34 +16,35 @@
 "p" = (/obj/machinery/conveyor/west/north,/turf/floor/rock,/area)
 "q" = (/obj/structure/workbench/carpentry,/turf/floor/grass,/area)
 "r" = (/obj/machinery/conveyor/north/west,/turf/floor/rock,/area)
-"s" = (/obj/item/weapon/axe,/turf/floor/grass,/area)
-"t" = (/turf/wall/rock,/area)
-"u" = (/obj/machinery/conveyor/east/south,/turf/floor/grass,/area)
-"v" = (/obj/machinery/conveyor{dir = 8},/turf/floor/grass,/area)
-"w" = (/obj/machinery/conveyor/north/west,/turf/floor/grass,/area)
-"x" = (/obj/structure/cashbox,/turf/floor/rock,/area)
-"y" = (/obj/machinery/conveyor{dir = 8},/obj/item/wood,/turf/floor/rock,/area)
-"z" = (/obj/machinery/conveyor/south/west,/turf/floor/rock,/area)
-"A" = (/obj/machinery/conveyor,/obj/machinery/furnace,/turf/floor/rock,/area)
-"B" = (/obj/machinery/conveyor,/obj/item/wood,/turf/floor/rock,/area)
-"C" = (/obj/machinery/conveyor/south/west,/obj/item/planks,/turf/floor/rock,/area)
-"D" = (/obj/item/weapon/pickaxe,/turf/floor/rock,/area)
-"E" = (/obj/machinery/conveyor,/obj/item/planks,/turf/floor/rock,/area)
-"F" = (/turf/floor/spawnpoint,/area)
-"G" = (/obj/item/clothing/head/hardhat,/turf/floor/grass,/area)
-"H" = (/obj/item/clothing/uniform/workman,/turf/floor/grass,/area)
-"I" = (/obj/machinery/conveyor{dir = 4},/obj/item/planks,/turf/floor/rock,/area)
-"J" = (/obj/machinery/conveyor{dir = 1},/obj/item/wood,/turf/floor/rock,/area)
-"K" = (/obj/item/clothing/shoes/rubberboots,/turf/floor/grass,/area)
-"L" = (/obj/machinery/conveyor{dir = 4},/obj/item/wood,/turf/floor/rock,/area)
-"M" = (/obj/machinery/buy,/turf/wall/rock,/area)
-"N" = (/obj/machinery/budgetdisplay,/turf/wall/rock,/area)
-"O" = (/obj/machinery/sell,/turf/wall/rock,/area)
-"P" = (/obj/machinery/elevator_control/bottom,/turf/floor/rock,/area)
-"Q" = (/turf/floor/rock,/area/elevator)
-"R" = (/obj/structure/closet,/turf/floor/rock,/area)
-"S" = (/obj/structure/multiz/ladder/up,/turf/floor/rock,/area)
-"T" = (/obj/machinery/budgetdisplay,/turf/floor/rock,/area)
+"s" = (/turf/floor/openspace,/area)
+"t" = (/obj/item/weapon/axe,/turf/floor/grass,/area)
+"u" = (/turf/wall/rock,/area)
+"v" = (/obj/machinery/conveyor/east/south,/turf/floor/grass,/area)
+"w" = (/obj/machinery/conveyor{dir = 8},/turf/floor/grass,/area)
+"x" = (/obj/machinery/conveyor/north/west,/turf/floor/grass,/area)
+"y" = (/obj/structure/cashbox,/turf/floor/rock,/area)
+"z" = (/obj/machinery/conveyor{dir = 8},/obj/item/wood,/turf/floor/rock,/area)
+"A" = (/obj/machinery/conveyor/south/west,/turf/floor/rock,/area)
+"B" = (/obj/machinery/conveyor,/obj/machinery/furnace,/turf/floor/rock,/area)
+"C" = (/obj/machinery/conveyor,/obj/item/wood,/turf/floor/rock,/area)
+"D" = (/obj/machinery/conveyor/south/west,/obj/item/planks,/turf/floor/rock,/area)
+"E" = (/obj/item/weapon/pickaxe,/turf/floor/rock,/area)
+"F" = (/obj/machinery/conveyor,/obj/item/planks,/turf/floor/rock,/area)
+"G" = (/turf/floor/spawnpoint,/area)
+"H" = (/obj/item/clothing/head/hardhat,/turf/floor/grass,/area)
+"I" = (/obj/item/clothing/uniform/workman,/turf/floor/grass,/area)
+"J" = (/obj/machinery/conveyor{dir = 4},/obj/item/planks,/turf/floor/rock,/area)
+"K" = (/obj/machinery/conveyor{dir = 1},/obj/item/wood,/turf/floor/rock,/area)
+"L" = (/obj/item/clothing/shoes/rubberboots,/turf/floor/grass,/area)
+"M" = (/obj/machinery/conveyor{dir = 4},/obj/item/wood,/turf/floor/rock,/area)
+"N" = (/obj/machinery/buy,/turf/wall/rock,/area)
+"O" = (/obj/machinery/budgetdisplay,/turf/wall/rock,/area)
+"P" = (/obj/machinery/sell,/turf/wall/rock,/area)
+"Q" = (/obj/machinery/elevator_control/bottom,/turf/floor/rock,/area)
+"R" = (/turf/floor/rock,/area/elevator)
+"S" = (/obj/structure/closet,/turf/floor/rock,/area)
+"T" = (/obj/structure/multiz/ladder/up,/turf/floor/rock,/area)
+"U" = (/obj/machinery/budgetdisplay,/turf/floor/rock,/area)
 
 (1,1,1) = {"
 abbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbabbbbbbbbbbbbbbbb
@@ -84,122 +85,122 @@ abbbbbbabbbbbbbbbbbbcccccccccccccccccbbbbabbbbbbbb
 bbbabbbbbbbbabbbbabcccccccccccfccccbbbbbbbbbbbbabb
 bbbbbbabbbbbbbbbbbbbghhijcccccfcckcbbabbbbbbabbbba
 bbbbbbbbbbabbbbbabbbfcccccclccmnopcbbbbbbabbbbbbab
-bbbbbabbbbbbqbbbbbbgrcccccccccccccccbbbbbbbbbbbbbb
-bbbbbbbbbbsbbbbbbbbftttttttttttttttcbabbbbbbbbabba
-babbbbabbbbbbbabbuvwtttttttttttttttbbbbbabbbbbbbbb
-bbbbbbbbbbttttbbtftttttttttttttttttbbbbbbbbbbabbbb
-bbbbbbbbbbtcxtbbtfccghhyzttttttttttbbbbabbbbbbbbab
-bbbbbbbbbbtcctbbtAccBghCkttttttttttbbbbbbbbabbbbbb
-bbbbbbbbbbccctbbtfcDfEckkttttttttttbbabbbbbbbbbabb
-bbbFbbbbbGtccttttcccffckkttttttttttbbbbbbbbabbbbbb
-bbbbbbbbbHtcccccccccfmIpJttttttttttbbbbbbbbbbbbbab
-bbbbbbbbbKttccccccccmLoopttttttttttbbbbbabbbbbbbbb
-bbbbbbbbbbbtttttMNOttttttttttttttttbbbbbbbbbbbabbb
-bbbbbbbbbbbbbbbbbbbbtttttttttttttttbbabbbbbbbbbbbb
+bbbbbabbbbbbqbbbbbbgrccccsccccccccccbbbbbbbbbbbbbb
+bbbbbbbbbbtbbbbbbbbfuuuuuuuuuuuuuuucbabbbbbbbbabba
+babbbbabbbbbbbabbvwxuuuuuuuuuuuuuuubbbbbabbbbbbbbb
+bbbbbbbbbbuuuubbufuuuuuuuuuuuuuuuuubbbbbbbbbbabbbb
+bbbbbbbbbbucyubbufccghhzAuuuuuuuuuubbbbabbbbbbbbab
+bbbbbbbbbbuccubbuBccCghDkuuuuuuuuuubbbbbbbbabbbbbb
+bbbbbbbbbbcccubbufcEfFckkuuuuuuuuuubbabbbbbbbbbabb
+bbbGbbbbbHuccuuuucccffckkuuuuuuuuuubbbbbbbbabbbbbb
+bbbbbbbbbIucccccccccfmJpKuuuuuuuuuubbbbbbbbbbbbbab
+bbbbbbbbbLuuccccccccmMoopuuuuuuuuuubbbbbabbbbbbbbb
+bbbbbbbbbbbuuuuuNOPuuuuuuuuuuuuuuuubbbbbbbbbbbabbb
+bbbbbbbbbbbbbbbbbbbbuuuuuuuuuuuuuuubbabbbbbbbbbbbb
 "}
 
 (1,1,2) = {"
-tttttttttttttttttttttttttttttttttttttttttttttttttt
-tttttttttttttttttttttttttttttttttttttttttttttttttt
-tttttttttttttttttttttttttttttttttttttttttttttttttt
-tttttttttttttttttttttttttttttttttttttttttttttttttt
-tttttttttttttttttttttttttttttttttttttttttttttttttt
-tttttttttttttttttttttttttttttttttttttttttttttttttt
-tttttttttttttttttttttttttttttttttttttttttttttttttt
-tttttttttttttttttttttttttttttttttttttttttttttttttt
-tttttttttttttttttttttttttttttttttttttttttttttttttt
-tttttttttttttttttttttttttttttttttttttttttttttttttt
-tttttttttttttttttttttttttttttttttttttttttttttttttt
-tttttttttttttttttttttttttttttttttttttttttttttttttt
-tttttttttttttttttttttttttttttttttttttttttttttttttt
-tttttttttttttttttttttttttttttttttttttttttttttttttt
-tttttttttttttttttttttttttttttttttttttttttttttttttt
-tttttttttttttttttttttttttttttttttttttttttttttttttt
-tttttttttttttttttttttttttttttttttttttttttttttttttt
-tttttttttttttttttttttttttttttttttttttttttttttttttt
-tttttttttttttttttttttttttttttttttttttttttttttttttt
-tttttttttttttttttttttttttttttttttttttttttttttttttt
-tttttttttttttttttttttttttttttttttttttttttttttttttt
-tttttttttttttttttttttttttttttttttttttttttttttttttt
-tttttttttttttttttttttttttttttttttttttttttttttttttt
-tttttttttttttttttttttttttttttttttttttttttttttttttt
-tttttttttttttttttttttttttttttttttttttttttttttttttt
-tttttttttttttttttttttttttttttttttttttttttttttttttt
-tttttttttttttttttttttttttttttttttttttttttttttttttt
-tttttttttttttttttttttttttttttttttttttttttttttttttt
-tttttttttttttttttttttttttccccctttttttttttttttttttt
-tttttttttttttttttttttttttccccctttttttttttttttttttt
-tttttttttttttttttttttttttccPcctttttttttttttttttttt
-tttttttttttttttttttttttttcQQQctttttttttttttttttttt
-tttttttttttttttttttttttttcQQQctttttttttttttttttttt
-tttttttttttttttttttttttttcQQQctttttttttttttttttttt
-tttttttttttttttttttttttttccccctttttttttttttttttttt
-tttttttttttttttttttttttttcRRRctttttttttttttttttttt
-tttttttttttttttttttttttttccccftttttttttttttttttttt
-tttttttttttttttttttttttttccScftttttttttttttttttttt
-tttttttttttttttttttttttttDcccAtttttttttttttttttttt
-tttttttttttttttttttttttttcclcftttttttttttttttttttt
-tttttttttttttttttttttttttccTcctttttttttttttttttttt
-tttttttttttttttttttttttttttttttttttttttttttttttttt
-tttttttttttttttttttttttttttttttttttttttttttttttttt
-tttttttttttttttttttttttttttttttttttttttttttttttttt
-tttttttttttttttttttttttttttttttttttttttttttttttttt
-tttttttttttttttttttttttttttttttttttttttttttttttttt
-tttttttttttttttttttttttttttttttttttttttttttttttttt
-tttttttttttttttttttttttttttttttttttttttttttttttttt
-tttttttttttttttttttttttttttttttttttttttttttttttttt
-tttttttttttttttttttttttttttttttttttttttttttttttttt
+uuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuu
+uuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuu
+uuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuu
+uuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuu
+uuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuu
+uuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuu
+uuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuu
+uuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuu
+uuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuu
+uuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuu
+uuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuu
+uuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuu
+uuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuu
+uuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuu
+uuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuu
+uuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuu
+uuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuu
+uuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuu
+uuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuu
+uuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuu
+uuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuu
+uuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuu
+uuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuu
+uuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuu
+uuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuu
+uuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuu
+uuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuu
+uuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuu
+uuuuuuuuuuuuuuuuuuuuuuuuucccccuuuuuuuuuuuuuuuuuuuu
+uuuuuuuuuuuuuuuuuuuuuuuuucccccuuuuuuuuuuuuuuuuuuuu
+uuuuuuuuuuuuuuuuuuuuuuuuuccQccuuuuuuuuuuuuuuuuuuuu
+uuuuuuuuuuuuuuuuuuuuuuuuucRRRcuuuuuuuuuuuuuuuuuuuu
+uuuuuuuuuuuuuuuuuuuuuuuuucRRRcuuuuuuuuuuuuuuuuuuuu
+uuuuuuuuuuuuuuuuuuuuuuuuucRRRcuuuuuuuuuuuuuuuuuuuu
+uuuuuuuuuuuuuuuuuuuuuuuuucccccuuuuuuuuuuuuuuuuuuuu
+uuuuuuuuuuuuuuuuuuuuuuuuucSSScuuuuuuuuuuuuuuuuuuuu
+uuuuuuuuuuuuuuuuuuuuuuuuuccccfuuuuuuuuuuuuuuuuuuuu
+uuuuuuuuuuuuuuuuuuuuuuuuuccTcfuuuuuuuuuuuuuuuuuuuu
+uuuuuuuuuuuuuuuuuuuuuuuuuEcccBuuuuuuuuuuuuuuuuuuuu
+uuuuuuuuuuuuuuuuuuuuuuuuucclcfuuuuuuuuuuuuuuuuuuuu
+uuuuuuuuuuuuuuuuuuuuuuuuuscUccuuuuuuuuuuuuuuuuuuuu
+uuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuu
+uuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuu
+uuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuu
+uuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuu
+uuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuu
+uuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuu
+uuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuu
+uuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuu
+uuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuu
 "}
 
 (1,1,3) = {"
-tttttttttttttttttttttttttttttttttttttttttttttttttt
-tttttttttttttttttttttttttttttttttttttttttttttttttt
-tttttttttttttttttttttttttttttttttttttttttttttttttt
-tttttttttttttttttttttttttttttttttttttttttttttttttt
-tttttttttttttttttttttttttttttttttttttttttttttttttt
-tttttttttttttttttttttttttttttttttttttttttttttttttt
-tttttttttttttttttttttttttttttttttttttttttttttttttt
-tttttttttttttttttttttttttttttttttttttttttttttttttt
-tttttttttttttttttttttttttttttttttttttttttttttttttt
-tttttttttttttttttttttttttttttttttttttttttttttttttt
-tttttttttttttttttttttttttttttttttttttttttttttttttt
-tttttttttttttttttttttttttttttttttttttttttttttttttt
-tttttttttttttttttttttttttttttttttttttttttttttttttt
-tttttttttttttttttttttttttttttttttttttttttttttttttt
-tttttttttttttttttttttttttttttttttttttttttttttttttt
-tttttttttttttttttttttttttttttttttttttttttttttttttt
-tttttttttttttttttttttttttttttttttttttttttttttttttt
-tttttttttttttttttttttttttttttttttttttttttttttttttt
-tttttttttttttttttttttttttttttttttttttttttttttttttt
-tttttttttttttttttttttttttttttttttttttttttttttttttt
-tttttttttttttttttttttttttttttttttttttttttttttttttt
-tttttttttttttttttttttttttttttttttttttttttttttttttt
-tttttttttttttttttttttttttttttttttttttttttttttttttt
-tttttttttttttttttttttttttttttttttttttttttttttttttt
-tttttttttttttttttttttttttttttttttttttttttttttttttt
-tttttttttttttttttttttttttttttttttttttttttttttttttt
-tttttttttttttttttttttttttttttttttttttttttttttttttt
-tttttttttttttttttttttttttttttttttttttttttttttttttt
-tttttttttttttttttttttttttttttttttttttttttttttttttt
-tttttttttttttttttttttttttttttttttttttttttttttttttt
-tttttttttttttttttttttttttttttttttttttttttttttttttt
-tttttttttttttttttttttttttttttttttttttttttttttttttt
-tttttttttttttttttttttttttttttttttttttttttttttttttt
-tttttttttttttttttttttttttttttttttttttttttttttttttt
-tttttttttttttttttttttttttttttttttttttttttttttttttt
-tttttttttttttttttttttttttccccctttttttttttttttttttt
-tttttttttttttttttttttttttccccctttttttttttttttttttt
-tttttttttttttttttttttttttccccctttttttttttttttttttt
-tttttttttttttttttttttttttccccctttttttttttttttttttt
-tttttttttttttttttttttttttccScctttttttttttttttttttt
-tttttttttttttttttttttttttccccctttttttttttttttttttt
-tttttttttttttttttttttttttttttttttttttttttttttttttt
-tttttttttttttttttttttttttttttttttttttttttttttttttt
-tttttttttttttttttttttttttttttttttttttttttttttttttt
-tttttttttttttttttttttttttttttttttttttttttttttttttt
-tttttttttttttttttttttttttttttttttttttttttttttttttt
-tttttttttttttttttttttttttttttttttttttttttttttttttt
-tttttttttttttttttttttttttttttttttttttttttttttttttt
-tttttttttttttttttttttttttttttttttttttttttttttttttt
-tttttttttttttttttttttttttttttttttttttttttttttttttt
+uuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuu
+uuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuu
+uuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuu
+uuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuu
+uuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuu
+uuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuu
+uuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuu
+uuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuu
+uuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuu
+uuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuu
+uuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuu
+uuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuu
+uuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuu
+uuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuu
+uuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuu
+uuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuu
+uuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuu
+uuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuu
+uuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuu
+uuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuu
+uuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuu
+uuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuu
+uuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuu
+uuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuu
+uuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuu
+uuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuu
+uuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuu
+uuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuu
+uuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuu
+uuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuu
+uuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuu
+uuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuu
+uuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuu
+uuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuu
+uuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuu
+uuuuuuuuuuuuuuuuuuuuuuuuucccccuuuuuuuuuuuuuuuuuuuu
+uuuuuuuuuuuuuuuuuuuuuuuuucccccuuuuuuuuuuuuuuuuuuuu
+uuuuuuuuuuuuuuuuuuuuuuuuucccccuuuuuuuuuuuuuuuuuuuu
+uuuuuuuuuuuuuuuuuuuuuuuuucccccuuuuuuuuuuuuuuuuuuuu
+uuuuuuuuuuuuuuuuuuuuuuuuuccTccuuuuuuuuuuuuuuuuuuuu
+uuuuuuuuuuuuuuuuuuuuuuuuucccccuuuuuuuuuuuuuuuuuuuu
+uuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuu
+uuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuu
+uuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuu
+uuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuu
+uuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuu
+uuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuu
+uuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuu
+uuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuu
+uuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuu
 "}
