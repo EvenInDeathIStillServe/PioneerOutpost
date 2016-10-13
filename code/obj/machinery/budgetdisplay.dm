@@ -22,8 +22,12 @@ obj/machinery/buy
 	icon_state = "buy"
 
 obj/machinery/buy/attack_hand(user)
-	user << "You buy some stocks."
-	money = money - 50
+	if (money >= 50)
+		money = money - 50
+		stock = stock + 1
+		user << "You buy some stocks."
+	else
+		user << "You can't afford any more shares!"
 
 obj/machinery/sell
 	name = "sell"
@@ -31,5 +35,9 @@ obj/machinery/sell
 	icon_state = "sell"
 
 obj/machinery/sell/attack_hand(user)
-	user << "You sell some stocks."
-	money = money + 50
+	if (stock >=1)
+		user << "You sell some stocks."
+		money = money + 50
+		stock = stock - 1
+	else
+		user << "You don't have any stocks!"
