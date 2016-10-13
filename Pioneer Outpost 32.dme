@@ -29,6 +29,7 @@
 #include "code\game.dm"
 #include "code\item.dm"
 #include "code\mob.dm"
+#include "code\openspace.dm"
 #include "code\say.dm"
 #include "code\screen.dm"
 #include "code\sound.dm"
